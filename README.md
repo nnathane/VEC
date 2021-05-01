@@ -10,5 +10,5 @@ Allows user to create 'fair' teams based on relative ranking.
 
 # Additional Features
 
-- Player Stats(Economy(ECO), Average Combat Score(ACS), Kills/Deaths, Wins/Losses and Games Played)
+- Player Stats(Economy(ECO), Average Combat Score(ACS), Kills/Deaths, Wins/Losses(Winrate %) and Games Played)
 - 'Fair' Matchmaking
