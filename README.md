@@ -12,3 +12,15 @@ Allows user to create 'fair' teams based on relative ranking.
 
 - Player Stats(Economy(ECO), Average Combat Score(ACS), Kills/Deaths, Wins/Losses(Winrate %) and Games Played)
 - 'Fair' Matchmaking
+
+## Dev Environment Quick Start Guide
+
+```
+git clone https://github.com/nnathane/VEC.git
+```
+```
+npm install
+```
+```
+npm run dev (hosted on --> localhost:25565)
+```
