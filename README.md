@@ -19,6 +19,9 @@ Allows user to create 'fair' teams based on relative ranking.
 git clone https://github.com/nnathane/VEC.git
 ```
 ```
+cd VEC
+```
+```
 npm install
 ```
 ```
